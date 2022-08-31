@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://daiweiwho.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 31 Aug 2022 19:32:14 &#43;0800</lastBuildDate>
+            <atom:link href="https://daiweiwho.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://daiweiwho.github.io/posts/first_post/</link>
+    <pubDate>Wed, 31 Aug 2022 19:32:14 &#43;0800</pubDate>
+    <author>Dai Wei</author>
+    <guid>https://daiweiwho.github.io/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
